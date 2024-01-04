@@ -1,0 +1,38 @@
+PROBLEM_ID,TITLE_NM,level_NM,sprout_yn,tags,LINK
+1000,A+B,1,True,"구현,사칙연산,수학",https://www.acmicpc.net/problem/1000
+1001,A-B,1,True,"구현,사칙연산,수학",https://www.acmicpc.net/problem/1001
+1002,터렛,8,False,"많은 조건 분기,기하학,수학",https://www.acmicpc.net/problem/1002
+1003,피보나치 함수,8,False,다이나믹 프로그래밍,https://www.acmicpc.net/problem/1003
+1004,어린 왕자,8,False,"기하학,수학",https://www.acmicpc.net/problem/1004
+1005,ACM Craft,13,False,"dag,다이나믹 프로그래밍,그래프 이론,위상 정렬",https://www.acmicpc.net/problem/1005
+1007,벡터 매칭,14,False,"브루트포스 알고리즘,수학",https://www.acmicpc.net/problem/1007
+1008,A/B,1,True,"구현,사칙연산,수학",https://www.acmicpc.net/problem/1008
+1009,분산처리,4,False,"구현,수학",https://www.acmicpc.net/problem/1009
+1010,다리 놓기,6,False,"조합론,다이나믹 프로그래밍,수학",https://www.acmicpc.net/problem/1010
+1011,Fly me to the Alpha Centauri,11,False,수학,https://www.acmicpc.net/problem/1011
+1012,유기농 배추,9,False,"그래프 이론,그래프 탐색,너비 우선 탐색,깊이 우선 탐색",https://www.acmicpc.net/problem/1012
+1013,Contact,11,False,"정규 표현식,문자열",https://www.acmicpc.net/problem/1013
+1015,수열 정렬,7,False,정렬,https://www.acmicpc.net/problem/1015
+1016,제곱 ㄴㄴ 수,15,False,"수학,정수론,소수 판정,에라토스테네스의 체",https://www.acmicpc.net/problem/1016
+1018,체스판 다시 칠하기,7,False,브루트포스 알고리즘,https://www.acmicpc.net/problem/1018
+1019,책 페이지,15,False,수학,https://www.acmicpc.net/problem/1019
+1021,회전하는 큐,8,False,"자료 구조,덱",https://www.acmicpc.net/problem/1021
+1022,소용돌이 예쁘게 출력하기,13,False,"구현,수학",https://www.acmicpc.net/problem/1022
+1024,수열의 합,9,False,수학,https://www.acmicpc.net/problem/1024
+1025,제곱수 찾기,11,False,브루트포스 알고리즘,https://www.acmicpc.net/problem/1025
+1026,보물,7,False,"그리디 알고리즘,수학,정렬",https://www.acmicpc.net/problem/1026
+1027,고층 건물,12,False,"브루트포스 알고리즘,기하학,수학",https://www.acmicpc.net/problem/1027
+1029,그림 교환,15,False,"비트마스킹,다이나믹 프로그래밍,비트필드를 이용한 다이나믹 프로그래밍",https://www.acmicpc.net/problem/1029
+1030,프렉탈 평면,13,False,"분할 정복,구현,재귀",https://www.acmicpc.net/problem/1030
+1032,명령 프롬프트,5,False,"구현,문자열",https://www.acmicpc.net/problem/1032
+1033,칵테일,14,False,"유클리드 호제법,그래프 이론,그래프 탐색,수학,정수론",https://www.acmicpc.net/problem/1033
+1034,램프,12,False,"애드 혹,브루트포스 알고리즘",https://www.acmicpc.net/problem/1034
+1035,조각 움직이기,15,False,"너비 우선 탐색,비트마스킹,브루트포스 알고리즘,그래프 이론,그래프 탐색",https://www.acmicpc.net/problem/1035
+1036,36진수,15,False,"임의 정밀도 / 큰 수 연산,그리디 알고리즘,구현,수학,문자열",https://www.acmicpc.net/problem/1036
+1037,약수,5,False,"수학,정수론",https://www.acmicpc.net/problem/1037
+1038,감소하는 수,11,False,"백트래킹,브루트포스 알고리즘",https://www.acmicpc.net/problem/1038
+1039,교환,14,False,"너비 우선 탐색,그래프 이론,그래프 탐색",https://www.acmicpc.net/problem/1039
+1041,주사위,11,False,"그리디 알고리즘,수학",https://www.acmicpc.net/problem/1041
+1043,거짓말,12,False,"자료 구조,분리 집합,그래프 이론,그래프 탐색",https://www.acmicpc.net/problem/1043
+1045,도로,15,False,"그래프 이론,그리디 알고리즘,최소 스패닝 트리",https://www.acmicpc.net/problem/1045
+1049,기타줄,7,False,"그리디 알고리즘,수학",https://www.acmicpc.net/problem/1049

@@ -1,0 +1,460 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "37c143bc-dd2a-4997-ae6c-e1026a054bda",
+            "created_time": "2024-01-04T13:01:00.000Z",
+            "last_edited_time": "2024-01-04T13:17:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "31f18ccb-6ba5-4e35-966e-3db1595f682b"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "31f18ccb-6ba5-4e35-966e-3db1595f682b"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "3b831712-1822-4cbc-884b-a490903048de"
+            },
+            "archived": false,
+            "properties": {
+                "태그": {
+                    "id": "Eub%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "c6894803-7c8f-4c1d-9d56-c8402a29376c",
+                            "name": "재귀",
+                            "color": "default"
+                        }
+                    ]
+                },
+                "새싹여부": {
+                    "id": "M%5BFm",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "O",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "O",
+                            "href": null
+                        }
+                    ]
+                },
+                "난이도": {
+                    "id": "SiAC",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Unranked",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": true,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "blue"
+                            },
+                            "plain_text": "Unranked",
+                            "href": null
+                        }
+                    ]
+                },
+                "링크": {
+                    "id": "f%3F%60j",
+                    "type": "url",
+                    "url": "https://www.acmicpc.net/problem/1008"
+                },
+                "문제ID": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A/B",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A/B",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/A-B-37c143bcdd2a4997ae6ce1026a054bda",
+            "public_url": "https://kangjj.notion.site/A-B-37c143bcdd2a4997ae6ce1026a054bda"
+        },
+        {
+            "object": "page",
+            "id": "fdca4fa7-50e4-43ea-ad1e-1e1bf8f8cd70",
+            "created_time": "2024-01-04T13:00:00.000Z",
+            "last_edited_time": "2024-01-04T13:17:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "31f18ccb-6ba5-4e35-966e-3db1595f682b"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "31f18ccb-6ba5-4e35-966e-3db1595f682b"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "3b831712-1822-4cbc-884b-a490903048de"
+            },
+            "archived": false,
+            "properties": {
+                "태그": {
+                    "id": "Eub%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "03e927cf-2d48-460b-9121-de94386e3d25",
+                            "name": "문자열",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "새싹여부": {
+                    "id": "M%5BFm",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "X",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "X",
+                            "href": null
+                        }
+                    ]
+                },
+                "난이도": {
+                    "id": "SiAC",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Gold 3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": true,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "yellow"
+                            },
+                            "plain_text": "Gold 3",
+                            "href": null
+                        }
+                    ]
+                },
+                "링크": {
+                    "id": "f%3F%60j",
+                    "type": "url",
+                    "url": "https://www.acmicpc.net/problem/1003"
+                },
+                "문제ID": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "피보나치",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "피보나치",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/fdca4fa750e443eaad1e1e1bf8f8cd70",
+            "public_url": "https://kangjj.notion.site/fdca4fa750e443eaad1e1e1bf8f8cd70"
+        },
+        {
+            "object": "page",
+            "id": "9ffcf490-cf0b-402a-9d71-d0b1a3b75984",
+            "created_time": "2024-01-04T12:02:00.000Z",
+            "last_edited_time": "2024-01-04T13:17:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e6d1e3b4-f6ef-4232-96c0-52966789c83d"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "31f18ccb-6ba5-4e35-966e-3db1595f682b"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "3b831712-1822-4cbc-884b-a490903048de"
+            },
+            "archived": false,
+            "properties": {
+                "태그": {
+                    "id": "Eub%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "ad72e191-0250-47f1-96bc-812d0ea29cc5",
+                            "name": "브루트포스 알고리즘",
+                            "color": "brown"
+                        }
+                    ]
+                },
+                "새싹여부": {
+                    "id": "M%5BFm",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "O",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "O",
+                            "href": null
+                        }
+                    ]
+                },
+                "난이도": {
+                    "id": "SiAC",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Silver 2",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": true,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "gray"
+                            },
+                            "plain_text": "Silver 2",
+                            "href": null
+                        }
+                    ]
+                },
+                "링크": {
+                    "id": "f%3F%60j",
+                    "type": "url",
+                    "url": "https://www.acmicpc.net/problem/1001"
+                },
+                "문제ID": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A-B",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A-B",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/A-B-9ffcf490cf0b402a9d71d0b1a3b75984",
+            "public_url": "https://kangjj.notion.site/A-B-9ffcf490cf0b402a9d71d0b1a3b75984"
+        },
+        {
+            "object": "page",
+            "id": "d6f24580-83fe-4802-8739-ad365f20744d",
+            "created_time": "2024-01-04T11:41:00.000Z",
+            "last_edited_time": "2024-01-04T13:16:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "31f18ccb-6ba5-4e35-966e-3db1595f682b"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "31f18ccb-6ba5-4e35-966e-3db1595f682b"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "3b831712-1822-4cbc-884b-a490903048de"
+            },
+            "archived": false,
+            "properties": {
+                "태그": {
+                    "id": "Eub%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "793f1921-afd9-4693-b334-ee53b5d8357e",
+                            "name": "구현",
+                            "color": "blue"
+                        },
+                        {
+                            "id": "b7e62e5e-ade2-4a7f-bd73-20d8b0a3eb4c",
+                            "name": "사칙 연산",
+                            "color": "green"
+                        },
+                        {
+                            "id": "8694141a-7a71-4078-ace0-5bb62b540977",
+                            "name": "수학",
+                            "color": "gray"
+                        }
+                    ]
+                },
+                "새싹여부": {
+                    "id": "M%5BFm",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "O",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "O",
+                            "href": null
+                        }
+                    ]
+                },
+                "난이도": {
+                    "id": "SiAC",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Bronze 5",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": true,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "brown"
+                            },
+                            "plain_text": "Bronze 5",
+                            "href": null
+                        }
+                    ]
+                },
+                "링크": {
+                    "id": "f%3F%60j",
+                    "type": "url",
+                    "url": "https://www.acmicpc.net/problem/1000"
+                },
+                "문제ID": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A+B",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A+B",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/A-B-d6f2458083fe48028739ad365f20744d",
+            "public_url": "https://kangjj.notion.site/A-B-d6f2458083fe48028739ad365f20744d"
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "page_or_database",
+    "page_or_database": {},
+    "request_id": "0acf33d3-5beb-43d8-9315-16b6753a1cb1"
+}
